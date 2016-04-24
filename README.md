@@ -83,3 +83,7 @@ References
 - [Installing Tinycore on to a Compact Flash card (or Pen Drive)](http://www.parkytowers.me.uk/thin/Linux/TinycoreCF.shtml)
 - [kernel /boot/bzImage quiet > Error 15: File not found](http://forum.tinycorelinux.net/index.php/topic,15713.0.html)
 
+License
+--------
+
+0BSD
