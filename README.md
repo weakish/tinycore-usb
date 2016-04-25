@@ -3,12 +3,29 @@ for x86 compatible machines.
 
 [TinyCore]: http://tinycorelinux.net/
 
-Depends
+Install
 --------
+
+### Dependencies
 
 - `grub`
 - Internet connection
 - `wget`
+
+### With basher
+
+```sh
+; basher install weakish/tinycore-usb
+```
+
+Require [basher][] version: `>=39875bc`.
+
+[basher]: https://github.com/basherpm/basher
+
+### Manually
+
+You just need to download `tinycore-usb.sh`, and put it into your `$PATH`,
+probably after renaming to `tinycore-ubs` and `chomd a+x`.
 
 Usage
 ------
